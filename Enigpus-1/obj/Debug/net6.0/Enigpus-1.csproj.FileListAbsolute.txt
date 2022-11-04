@@ -1,0 +1,15 @@
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/bin/Debug/net6.0/Enigpus-1
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/bin/Debug/net6.0/Enigpus-1.deps.json
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/bin/Debug/net6.0/Enigpus-1.runtimeconfig.json
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/bin/Debug/net6.0/Enigpus-1.dll
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/bin/Debug/net6.0/Enigpus-1.pdb
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.csproj.AssemblyReference.cache
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.AssemblyInfoInputs.cache
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.AssemblyInfo.cs
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.csproj.CoreCompileInputs.cache
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.dll
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/refint/Enigpus-1.dll
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.pdb
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/Enigpus-1.genruntimeconfig.cache
+/home/rifqi/Learning/Coding/Dotnet/Enigpus-1/Enigpus-1/obj/Debug/net6.0/ref/Enigpus-1.dll
